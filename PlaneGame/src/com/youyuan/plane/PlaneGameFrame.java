@@ -120,7 +120,7 @@ public class PlaneGameFrame extends MyFrame{
 		//增加键盘的监听
 		addKeyListener(new KeyMonitor());//在窗口加载类中注册定义的监听
 		//初始化生成一堆子弹对象
-		for(int i=0;i<20;i++) {
+		for(int i=0;i<30;i++) {
 			Bullet b = new Bullet();
 			bulletList.add(b);//数组中添加对象
 		}
