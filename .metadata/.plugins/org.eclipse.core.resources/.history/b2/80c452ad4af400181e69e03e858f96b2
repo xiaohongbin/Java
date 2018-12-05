@@ -1,0 +1,48 @@
+package com.youyuan.plane;
+
+import java.awt.Image;
+import java.awt.Rectangle;
+
+/**
+ * 封装游戏物体类，抽象出共有属性；坐标，速度，方法
+ * @author Administrator
+ *
+ */
+public class GameObject {
+	Image img;//飞机图片是变量
+	double x,y;
+	double speed =3;//定义移动速度
+	int width,height;
+	//获得飞机矩形
+	public Rectangle getRect() {
+//		Rectangle r = new Rectangle((int)x,(int)y,30,30);//坐标，高度，宽度
+//		Rectangle r = new Rectangle((int)x,(int)y,img.getWidth(null),img.getHeight(null));//获取飞机宽度，高度
+//		Rectangle r = new Rectangle((int)x,(int)y,width,height);
+//		return r;
+		return new Rectangle((int)x,(int)y,width,height);
+		
+	}
+	public GameObject(Image img, double x, double y, double speed, int width, int height) {
+		super();
+		this.img = img;
+		this.x = x;
+		this.y = y;
+		this.speed = speed;
+		this.width = width;
+		this.height = height;
+	}
+	public GameObject(Image img, double x, double y, double speed, int width, int height) {
+		this.img =img;
+		this.x=x;
+		this.y = y;
+		this.speed = speed;
+		this.width = img.getWidth(null);
+		this.height = img.getHeight(null);
+	}
+	public GameObject() {
+		
+	}
+	
+	
+
+}

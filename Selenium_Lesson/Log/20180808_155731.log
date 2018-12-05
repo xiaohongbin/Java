@@ -1,0 +1,10 @@
+2018-08-08 15:57:31.498 INFO: Start to select browser name from properties file
+2018-08-08 15:57:31.500 INFO: Your had select test browser type is: Chrome
+2018-08-08 15:57:31.500 INFO: The test server URL ishttps://www.jd.com
+2018-08-08 15:57:35.276 INFO: 启动谷歌浏览器
+2018-08-08 15:57:40.663 INFO: 打开网页：https://www.jd.com
+2018-08-08 15:57:40.833 INFO: 最大化窗口
+2018-08-08 15:57:40.838 INFO: 等待5秒钟
+2018-08-08 15:57:41.360 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (caff9f23dc36b324542cc6d6de6ee436)] -> id: key].
+2018-08-08 15:57:41.436 INFO: Type value is: mate7.
+2018-08-08 15:57:41.554 INFO: element:[[ChromeDriver: chrome on XP (caff9f23dc36b324542cc6d6de6ee436)] -> xpath: //*[@id='search']/div/div[2]/button]was clicked.

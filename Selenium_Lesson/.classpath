@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Tools/selenium-server-standalone-3.12.0.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_91/Selenium-Java-src.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/Selenium_Lesson/Tools/opencsv-2.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/Selenium_Lesson/Tools/log4j-1.2.15.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_91/log4j-1.2.15-sources.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/Selenium_Lesson/Tools/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/Selenium_Lesson/Tools/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/Selenium_Lesson/Tools/freemarker-2.3.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

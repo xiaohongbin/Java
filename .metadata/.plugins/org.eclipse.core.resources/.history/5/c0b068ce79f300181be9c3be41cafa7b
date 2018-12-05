@@ -1,0 +1,55 @@
+package com.youyuan.plane;
+
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.event.KeyEvent;
+
+import com.youyuan.util.GameUtil;
+/**
+ * 抽象出，图片来源，坐标
+ * @author Administrator
+ *
+ */
+public class Plane {
+//	Image img = GameUtil.getImage("images/plane.png");
+	Image img;//飞机图片是变量
+	double x,y;
+	double speed =10;//定义移动速度
+	boolean left,right,up,down;//定义可以8个方向移动的变量
+	
+	public void draw(Graphics g) {
+		g.drawImage(img, (int)x, (int)y, null);
+		move();
+	}
+//	定义飞机构造方法
+	public Plane() {
+		//空参构造器
+	}
+	public Plane(String imgpath,double x,double y) {
+		super();
+		this.img = GameUtil.getImage(imgpath);
+		this.x = x;
+		this.y = y;
+	}
+	//定义移动方式
+	public void move() {//不再需要键盘事件参数KeyEvent e
+		if(left) {
+			x -=speed;//替换移动速度常量
+		}
+		if(right) {
+			x +=speed;
+		}
+		if(up) {
+			y -=speed;
+		}
+		if(down) {
+			y +=speed;
+		}
+		
+	}
+	public void addDirection(KeyEvent e) {
+		
+	}
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GameFrame.java&apos; to &apos;com.youyuan.test.GameFrame.java&apos;&#x0D;&#x0A;- Original project: &apos;mygame&apos;&#x0D;&#x0A;- Destination element: &apos;com.youyuan.test.GameFrame.java&apos;&#x0D;&#x0A;- Original element: &apos;com.youyuan.test.GameFrame.java&apos;" description="Copy compilation unit" destination="/src&lt;com.youyuan.test{GameFrame.java" element1="/src&lt;com.youyuan.test{GameFrame.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1543384650996" units="1" version="1.0"/>
+</session>

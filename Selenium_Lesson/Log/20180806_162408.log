@@ -1,0 +1,21 @@
+2018-08-06 16:24:08.462 INFO: Start to select browser name from properties file
+2018-08-06 16:24:08.464 INFO: Your had select test browser type is: Chrome
+2018-08-06 16:24:08.464 INFO: The test server URL ishttps://www.jd.com
+2018-08-06 16:24:11.057 INFO: 启动谷歌浏览器
+2018-08-06 16:24:16.354 INFO: 打开网页：https://www.jd.com
+2018-08-06 16:24:16.486 INFO: 最大化窗口
+2018-08-06 16:24:16.491 INFO: 等待5秒钟
+2018-08-06 16:24:25.470 INFO: element:Proxy element for: DefaultElementLocator 'By.id: ttbar-login'was clicked.
+2018-08-06 16:24:25.588 INFO: element:[[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> xpath: //*/div[@class='login-form']/div[3]/a]was clicked.
+2018-08-06 16:24:25.660 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> id: loginname].
+2018-08-06 16:24:25.755 INFO: Type value is: 大葱鸭II.
+2018-08-06 16:24:25.823 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> id: nloginpwd].
+2018-08-06 16:24:25.935 INFO: Type value is: hong125101.
+2018-08-06 16:24:26.057 INFO: element:[[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> id: loginsubmit]was clicked.
+2018-08-06 16:24:27.256 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> id: key].
+2018-08-06 16:24:27.317 INFO: Type value is: Java.
+2018-08-06 16:24:27.416 INFO: element:[[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> xpath: //*[@id='search']/div/div[2]/button]was clicked.
+2018-08-06 16:24:32.689 INFO: element:[[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> xpath: //*[@id='J_goodsList']/ul/li[2]/div/div[1]/a/img]was clicked.
+2018-08-06 16:24:36.698 INFO: 窗口数量：2
+2018-08-06 16:24:36.786 INFO: new page title is 《Java从入门到精通（第4版 附光盘）》(明日科技)【摘要 书评 试读】- 京东图书
+2018-08-06 16:24:36.948 INFO: element:[[ChromeDriver: chrome on XP (c680f7c5d070383133e1be414a695fcf)] -> id: InitCartUrl]was clicked.

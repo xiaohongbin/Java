@@ -1,0 +1,13 @@
+package com.youyuan.plane;
+/**
+ * 抽象子弹属性，坐标，图片，速度，移动角度，子弹大小，生成不同子弹
+ * @author Administrator
+ *
+ */
+public class Bullet {
+	double x,y;
+	double speed;
+	double degree;
+	double width,height;
+
+}

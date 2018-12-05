@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//Testconfig/config.properties=UTF-8
+encoding//config/Log4j.properties=UTF-8
+encoding//config/Log4j111.properties=UTF-8
+encoding//src/lessons/ElementOperation_Clear.java=GBK
+encoding//src/listener=UTF-8
+encoding//src/listener/ExtentManager.java=UTF-8
+encoding//src/listener/ExtentTestNGITestListener.java=UTF-8
+encoding//src/listener/ScreenScr.java=UTF-8
+encoding/src=GBK

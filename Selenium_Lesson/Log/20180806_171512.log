@@ -1,0 +1,22 @@
+2018-08-06 17:15:12.283 INFO: Start to select browser name from properties file
+2018-08-06 17:15:12.285 INFO: Your had select test browser type is: Chrome
+2018-08-06 17:15:12.285 INFO: The test server URL ishttps://www.jd.com
+2018-08-06 17:15:14.829 INFO: 启动谷歌浏览器
+2018-08-06 17:15:20.725 INFO: 打开网页：https://www.jd.com
+2018-08-06 17:15:20.862 INFO: 最大化窗口
+2018-08-06 17:15:20.866 INFO: 等待5秒钟
+2018-08-06 17:15:31.102 INFO: element:Proxy element for: DefaultElementLocator 'By.id: ttbar-login'was clicked.
+2018-08-06 17:15:31.219 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> xpath: //*/div[@class='login-form']/div[3]/a]was clicked.
+2018-08-06 17:15:31.292 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> id: loginname].
+2018-08-06 17:15:31.374 INFO: Type value is: 大葱鸭II.
+2018-08-06 17:15:31.460 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> id: nloginpwd].
+2018-08-06 17:15:31.562 INFO: Type value is: hong125101.
+2018-08-06 17:15:31.673 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> id: loginsubmit]was clicked.
+2018-08-06 17:15:32.940 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> id: key].
+2018-08-06 17:15:32.999 INFO: Type value is: Java.
+2018-08-06 17:15:33.089 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> xpath: //*[@id='search']/div/div[2]/button]was clicked.
+2018-08-06 17:15:38.348 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> xpath: //*[@id='J_goodsList']/ul/li[2]/div/div[1]/a/img]was clicked.
+2018-08-06 17:15:42.362 INFO: 窗口数量：2
+2018-08-06 17:15:42.410 INFO: new page title is 《Java从入门到精通（第4版 附光盘）》(明日科技)【摘要 书评 试读】- 京东图书
+2018-08-06 17:15:42.530 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> id: InitCartUrl]was clicked.
+2018-08-06 17:15:46.788 INFO: element:[[ChromeDriver: chrome on XP (90666cb97326c216b2b585ef09f3c1ed)] -> xpath: //*[@id='result']/div/div/div[2]/div[3]/a[1]]was clicked.

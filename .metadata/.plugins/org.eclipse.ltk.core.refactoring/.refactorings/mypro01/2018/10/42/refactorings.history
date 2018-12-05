@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestString.java&apos; to &apos;testarray/src/com.youyuan.array&apos;&#x0D;&#x0A;- Original project: &apos;mypro01&apos;&#x0D;&#x0A;- Destination element: &apos;testarray/src/com.youyuan.array&apos;&#x0D;&#x0A;- Original element: &apos;com.youyuan.oop.array.TestString.java&apos;" description="Copy compilation unit" destination="=testarray/src&lt;com.youyuan.array" element1="/src&lt;com.youyuan.oop.array{TestString.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1539833834133" units="1" version="1.0"/>
+</session>

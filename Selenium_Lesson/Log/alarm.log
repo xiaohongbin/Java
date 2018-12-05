@@ -1,0 +1,10 @@
+2018-07-31 14:03:01,132 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:21) - 启动浏览器
+2018-07-31 14:03:01,279 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:23) - 浏览器窗口最大化
+2018-07-31 14:03:01,283 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:25) - 隐形等待2秒钟
+2018-07-31 14:03:12,106 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:28) - 打开百度网站
+2018-07-31 14:03:12,236 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:31) - 搜索输入框输入 有缘网
+2018-07-31 14:05:23,444 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:21) - 启动浏览器
+2018-07-31 14:05:23,578 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:23) - 浏览器窗口最大化
+2018-07-31 14:05:23,582 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:25) - 隐形等待2秒钟
+2018-07-31 14:05:27,905 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:28) - 打开百度网站
+2018-07-31 14:05:28,027 - baidu [main] INFO  baidu  testSuites.TestLog4j.main(TestLog4j.java:31) - 搜索输入框输入 有缘网

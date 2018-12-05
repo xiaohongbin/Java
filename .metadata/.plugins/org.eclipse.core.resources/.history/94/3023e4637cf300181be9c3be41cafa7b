@@ -1,0 +1,25 @@
+package com.youyuan.plane;
+
+import java.awt.Color;
+import java.awt.Graphics;
+
+/**
+ * 抽象子弹属性，坐标，图片，速度，移动角度，子弹大小，生成不同子弹
+ * @author Administrator
+ *
+ */
+public class Bullet {
+	double x,y;
+	double speed;
+	double degree;
+	double width =10;
+	double height = 10;
+	public void draw(Graphics g) {
+		Color c =g.getColor();
+		g.setColor(Color.yellow);//填充颜色
+		g.fillOval((int)x, (int)y, (int)width, (int)height);//填充原点方法
+		g.setColor(c);
+		
+	}
+
+}
